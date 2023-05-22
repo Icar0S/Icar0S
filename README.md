@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Icaro Santos 🔭 </h1>
+<h2 align="center">Hi 👋, I'm Icaro Santos 🔭 ✨</h2>
 <h3 align="center">A passionate frontend developer from Brazil ⚡ </h3>
 <h4 align="center">Computer engineer graduated from the Federal Institute, I have been studying the world of software development since 2018 🚀 </h4>
 
