@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icar0s&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icar0s&layout=compact&langs_count=10&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icar0s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icar0s&layout=compact&langs_count=10&theme=dracula"/>
 
 <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
