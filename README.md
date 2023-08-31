@@ -1,10 +1,9 @@
-<!--
-**Icar0S/Icar0S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+ ## My name is Icaro Santos 🔭 🪐
+ (React JS | Next JS | Javascript | HTML | CSS | Typescript | Java | Spring Boot | Python | Django ) 🚀
+- 🌐 Passionate about web development from Brazil ⚡  
+- 🎓 Computer engineer graduated from the Federal Institute, I have been studying the world of software development since 2018 🚀  
+- 💡 Love a good challenge
 
-<h2 align="center">Hi 👋, 🧑‍🚀 I'm Icaro Santos 🔭 🪐 </h2>
-<h3 align="center">A passionate frontend developer from Brazil ⚡ </h3>
-<h4 align="center">Computer engineer graduated from the Federal Institute, I have been studying the world of software development since 2018 🚀 </h4>
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
@@ -35,9 +34,12 @@
 
 
 <!-- GITHUB STATUS -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icar0s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icar0s&layout=compact&langs_count=10&theme=dracula"/> 
- 
+<div align="left">
+  
+  [![icaros top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icar0s&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
 
-<!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+<!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+
+<div align="center">
+  <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icar0s&layout=compact&langs_count=10&theme=dracula"/>-->
