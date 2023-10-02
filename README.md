@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/docker-1572B6?style=for-the-badge&logo=docker&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/selenium-239120?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jmeter-1287B1?style=for-the-badge&logo=apache&logoColor=white"/>
  
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
