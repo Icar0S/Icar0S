@@ -1,8 +1,19 @@
- ## My name is Icaro Santos 🇧🇷  🧑‍🚀  🪐🌃🔭
-- 🌐 Passionate about web development from Brazil ⚡  
-- 🎓 Computer engineer graduated from the Federal Institute Ceará, studying software development since 2017 - 2023 ✔️
-- 📚 Master's degree in computer science from the State University of Ceará, studying software development since 2024 🚀
-- 💡 Love a good challenge
+# Hi, I'm Ícaro Santos 🇧🇷 🧑‍🚀
+
+Building reliable Big Data systems through better testing and data quality.
+
+- 🎓 M.Sc. candidate in Computer Science at State University of Ceará (UECE), researching software testing for Big Data with a focus on data quality, LLMs, and RAG (since 2024)
+- 🧪 Research lines: 
+  - Systematic Literature Review + extensive snowballing (screened 4,700+ titles/abstracts) on Big Data testing tools, methods, and frameworks
+  - Mining online repositories (Medium, LinkedIn, DEV, Stack Overflow) to uncover emerging practices using topic modeling (LDA), keyword extraction, K-means, and DBSCAN
+- 🛠️ Building an LLM- and RAG-assisted tool to help testers improve coverage and ensure data integrity in Big Data systems (natural-language test specs, data-quality checks, and more)
+- 📄 Publications and activities: SLR paper published; experience report + expert survey with a Big Data testing checklist (short paper + extended LNBIP); poster and abstract accepted at the 5th LATAM School
+- 👨‍💻 B.Sc. in Computer Engineering from IFCE (2017–2023)
+- 🔎 Interests: Big Data, Software Testing, Data Quality, Mining Software Repositories, ML for SE, LLMs, RAG
+
+Always open to collaboration on data-quality testing, empirical studies, and tooling for large-scale systems.
+  
+---
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
