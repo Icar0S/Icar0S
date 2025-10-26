@@ -1,5 +1,4 @@
  ## My name is Icaro Santos 🇧🇷  🧑‍🚀  🪐🌃🔭
- (React JS | Next JS | Javascript | HTML | CSS | Typescript | Java | Spring Boot | Python | Django ) 🚀
 - 🌐 Passionate about web development from Brazil ⚡  
 - 🎓 Computer engineer graduated from the Federal Institute Ceará, studying software development since 2017 - 2023 ✔️
 - 📚 Master's degree in computer science from the State University of Ceará, studying software development since 2024 🚀
