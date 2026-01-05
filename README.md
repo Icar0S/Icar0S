@@ -9,7 +9,7 @@ Building reliable Big Data systems through better testing and data quality.
 - 🛠️ Building an LLM- and RAG-assisted tool to help testers improve coverage and ensure data integrity in Big Data systems (natural-language test specs, data-quality checks, and more)
 - 📄 Publications and activities: SLR paper published; experience report + expert survey with a Big Data testing checklist (short paper + extended LNBIP); poster and abstract accepted at the 5th LATAM School
 - 👨‍💻 B.Sc. in Computer Engineering from IFCE (2017–2023)
-- 🔎 Interests: Big Data, Software Testing, Data Quality, Mining Software Repositories, ML for SE, LLMs, RAG
+- 🔎 Interests: Big Data, Software Testing, Data Quality, Mining Software Repositories, ML for SE, LLMs, RAG.
 
 Always open to collaboration on data-quality testing, empirical studies, and tooling for large-scale systems.
   
