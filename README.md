@@ -1,5 +1,7 @@
 # Ícaro Santos
+
 **`Master Software Quality Engineer`**
+
 Building reliable Big Data systems through better testing and data quality.
 
 - 🎓 M.Sc. candidate in Computer Science at State University of Ceará (UECE), researching software testing for Big Data with a focus on data quality, LLMs, and RAG (since 2024)
@@ -16,6 +18,7 @@ Always open to collaboration on data-quality testing, empirical studies, and too
 ---
 
 <h5 align="left">Connect with me:</h5>
+
 <p align="left">
  <a href="https://linkedin.com/in/icaro-santos-oliveira/" target="blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/icaro-santos-oliveira/"  />
@@ -32,8 +35,9 @@ Always open to collaboration on data-quality testing, empirical studies, and too
 </p>
 
 ## 💻 Skill Tecnologies
+
 <p align="left">
- 
+
   🚀⚙️ Frameworks:     
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
