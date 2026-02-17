@@ -113,12 +113,21 @@ Always open to collaboration on data-quality testing, empirical studies, and too
 </p>
 
 <!-- GITHUB STATUS -->
-<div align="left">
-  
-  [![icaros top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icar0s&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
+## 📈 Statistics
 
-<!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-
-<div align="center">
-  <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icar0s&layout=compact&langs_count=10&theme=dracula"/>-->
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-stats-ten-pied.vercel.app/api?username=Icar0S&show_icons=true&theme=transparent&include_all_commits=true&locale=en" 
+  />
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-stats-ten-pied.vercel.app/api/top-langs/?username=Icar0S&theme=transparent&layout=compact&langs_count=10&locale=en" 
+  />
+</p>
+<!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
