@@ -2,7 +2,7 @@
 
 **`Master Software Quality Engineer`**
 
-Building reliable Big Data systems through better testing and data quality.
+Building reliable Big Data systems through better testing and data quality:
 
 - 🎓 M.Sc. candidate in Computer Science at State University of Ceará (UECE), researching software testing for Big Data with a focus on data quality, LLMs, and RAG (since 2024)
 - 🧪 Research lines: 
