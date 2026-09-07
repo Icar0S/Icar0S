@@ -6,14 +6,14 @@ Working on how to test software you can't assert with `==`: LLM/RAG applications
 
 - 🎓 **Ph.D. student in Computer Science** at State University of Ceará (UECE), 2026–2029 — researching **testing and quality assurance of LLM-based systems with Retrieval-Augmented Generation (RAG)**. Advisor: Prof. Ismayle S. Santos · Co-advisor: Prof. Rossana M. C. Andrade
 - 🎓 **M.Sc. in Computer Science** (UECE, 2024–2026) — testing Big Data systems and data quality
+- 🎓 **B.Sc. in Computer Engineering** (IFCE, 2017–2023)
 - 🧑‍💻 **Systems Analyst · Software Quality @ CAGECE** — quality team for a legacy Protheus ERP (TIR + Playwright + Jenkins; 30+ payroll routines and 1,300+ API tests automated) and AI team (test architecture for a RAG assistant in production)
 - 🧪 Research lines:
   * **Semantic oracles for non-deterministic systems** — cosine similarity plus deterministic guardrails replacing exact-match assertions in CI (53 cases, 96.22% pass rate over three months in production, real regressions caught)
   * **Data and index quality for RAG** — most RAG failure points sit upstream of generation, which makes the corpus the highest-leverage place to test
   * **Multivocal reviews and repository mining** — snowballing (4,700+ titles/abstracts screened) triangulated with grey literature from Medium, Dev.to and Stack Overflow via LDA, keyword extraction, K-means and DBSCAN
 - 🛠️ Building **[SmartDataTest](https://github.com/Icar0S/SmartDataTest)** (LLM/RAG-assisted generation of PySpark data-quality checks from declarative specs) and **[Evaluating-Answer-Quality-RAG-System](https://github.com/Icar0S/Evaluating-Answer-Quality-RAG-System)** (open reference test architecture for RAG, Apache 2.0 — [10.5281/zenodo.21837636](https://doi.org/10.5281/zenodo.21837636))
-- 📄 Recent output: three papers at **CBSoft 2026** (SAST, VEM, ISE) plus an accepted artifact · **ICEIS 2025** and its LNBIP extension · **SBQS 2024** · multivocal literature review under review at **JSS**
-- 🏅 ISTQB® Certified Tester (CTFL) · 👨‍💻 B.Sc. in Computer Engineering, IFCE (2017–2023)
+- 🏅 ISTQB® Certified Tester (CTFL)
 - 🔎 Interests: Software Testing, LLMs & RAG, Data Quality, Big Data, Mining Software Repositories, SE4AI, CI/CD
 
 Always open to collaboration on testing LLM-based systems, semantic oracles, empirical studies, and tooling for large-scale data.
